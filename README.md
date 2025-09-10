@@ -4,16 +4,16 @@ This code can be used to reproduce results in https://arxiv.org/abs/2509.XXXXX. 
 ## Code Organization:
 The repository is organized into five folders:
 
-1. __`Figure3_4_6_standard_pulses`__  
+1. __`Figure2_3_4_standard_pulses`__  
     Contains Python code for computing the quantum Fisher information (QFI) of all standard pulses. 
     This code can be used to reproduce Figures 3, 4, and 6. It also includes routines for optimizing 
     the pulse width as a function of the average photon number.
 
-2. __`Figure5_optimization_real_harmonics`__  
+2. __`Figure4_optimization_real_harmonics`__  
     Provides Python code for optimizing the QFI of an arbitrary real pulse expressed in a harmonic basis, 
     for a given width, as a function of the average photon number. This code can be used to reproduce Figure 5.
 
-3. __`Figure7_optimization_real_hermite_gaussian`__  
+3. __`Figure5_optimization_real_hermite_gaussian`__  
     Extends the above optimization to the Hermite-Gaussian basis, ensuring that no optimal pulse is missed.
    This code can be used to reproduce Figure 7.
 
