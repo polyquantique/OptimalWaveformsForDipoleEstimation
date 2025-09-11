@@ -1,4 +1,4 @@
-# Optimal Pulses for Dipole Moment Estimation with Coherent States:
+# Optimal Waveforms for Dipole Moment Estimation with Coherent States:
 This code can be used to reproduce results in https://arxiv.org/abs/2509.XXXXX. <br>
 
 ## Code Organization:
@@ -30,7 +30,7 @@ If you find this code useful in your research, please consider citing our paper:
 
 ```bib
 @article{In preparation,
-  title={Optimal Pulses for Dipole Moment Estimation with Coherent States},
+  title={Optimal Waveforms for Dipole Moment Estimation with Coherent States},
   author={Chinni, Karthik and Quesada, Nicol{\'a}s},
   journal={arXiv preprint arXiv:2509.XXXXX},
   year={2025}
