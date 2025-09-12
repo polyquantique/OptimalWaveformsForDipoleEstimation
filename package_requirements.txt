@@ -1,6 +1,0 @@
-## Packages and Software Required:
-The following packages were used in building the code:
-  - Numpy 1.26.4
-  - Jax 0.4.38
-  - Diffrax 0.6.2
-  - JAXopt 0.8.3

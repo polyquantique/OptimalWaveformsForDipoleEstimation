@@ -1,0 +1,4 @@
+numpy==1.26.4
+jax==0.4.38
+diffrax==0.6.2
+jaxopt==0.8.3
