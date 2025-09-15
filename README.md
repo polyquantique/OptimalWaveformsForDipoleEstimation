@@ -1,5 +1,10 @@
+[![a](https://img.shields.io/static/v1?label=arXiv&message=2509.09807&color=active&style=flat-square)](https://arxiv.org/abs/arXiv:2509.09807)
+
+
 # Optimal Waveforms for Dipole Moment Estimation with Coherent States:
-This code can be used to reproduce results in https://arxiv.org/abs/2509.XXXXX. <br>
+This code can be used to reproduce results in https://arxiv.org/abs/2509.09807  
+
+
 
 ## Code Organization:
 The repository is organized into five folders:
@@ -32,7 +37,7 @@ If you find this code useful in your research, please consider citing our paper:
 @article{chinni2025optimal,
   title={Optimal Waveforms for Dipole Moment Estimation with Coherent States},
   author={Chinni, Karthik and Quesada, Nicol{\'a}s},
-  journal={arXiv preprint arXiv:2509.XXXXX},
+  journal={arXiv preprint arXiv:2509.2509.09807},
   year={2025}
 }
 ```
