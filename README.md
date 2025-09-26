@@ -37,7 +37,7 @@ If you find this code useful in your research, please consider citing our paper:
 @article{chinni2025optimal,
   title={Optimal Waveforms for Dipole Moment Estimation with Coherent States},
   author={Chinni, Karthik and Quesada, Nicol{\'a}s},
-  journal={arXiv preprint arXiv:2509.2509.09807},
+  journal={arXiv preprint arXiv:2509.09807},
   year={2025}
 }
 ```
